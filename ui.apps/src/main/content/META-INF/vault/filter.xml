@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/narshin/clientlibs"/>
+    <filter root="/apps/narshin/components"/>
+    <filter root="/apps/narshin/i18n"/>
+</workspaceFilter>
